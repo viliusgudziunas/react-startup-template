@@ -12,3 +12,4 @@
 - Linting - ESLint, Prettier & Airbnb Style Guide
 - State Management - Redux
 - UI Framework - React Bootstrap
+- Routing - React Router
